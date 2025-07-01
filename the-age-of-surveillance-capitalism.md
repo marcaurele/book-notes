@@ -1,5 +1,5 @@
 ---
-isbn: 978-1-5491-4997-9
+isbn: 9781549149979
 year: 2019
 authors: Shoshana Zuboff
 ---
